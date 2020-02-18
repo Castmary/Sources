@@ -1,0 +1,11 @@
+Package: com.castmary.castrevoke
+Name: CastRevoke
+Author: Castmary
+Description: 
+ Anti-Revoke No need to trust profile and﻿ no need to Resign profile with the 7 day limit..
+
+Depends: mobilesubstrate
+Maintainer: Castmary <dbloxia@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1

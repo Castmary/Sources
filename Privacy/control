@@ -1,0 +1,9 @@
+Package: com.castmary.switcherprivacy
+Name: Switcher Privacy
+Author: Castmary
+Description: Blurs the applications in the app switcher for some privacy of your own.
+Depends: mobilesubstrate
+Maintainer: Castmary 
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1

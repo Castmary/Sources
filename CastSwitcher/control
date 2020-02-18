@@ -1,0 +1,9 @@
+Package: com.castmary.gridswitcher
+Name: CastSwitcher
+Author: Castmary
+Description: Bring back the Grid Switcher from iPad into iDevices.
+Depends: mobilesubstrate
+Maintainer: Castmary <dbloxia@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1

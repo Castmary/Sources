@@ -1,0 +1,9 @@
+Package: com.castmary.castball
+Name: CastBall 
+Author: Castmary
+Description: This tweak enables unlimited guidelines on any pre-installed 8 ball pool version.
+Depends: mobilesubstrate
+Maintainer: Castmary <dbloxia@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.2.1
